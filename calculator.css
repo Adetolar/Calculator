@@ -1,0 +1,127 @@
+h1{
+    text-align: center;
+}
+
+h6{
+    color: rgb(199, 151, 151);
+    text-align: center;
+    margin: 0px;
+}
+
+
+#container{
+    width:30%;
+    height:800px;
+    margin: auto;
+    /* border: 1px solid; */
+    background-color: black;
+    border-radius: 20px;
+    border: 1px solid white;
+
+}
+
+.input{
+
+    text-align: right;
+    color: ;
+    padding-right: 10px;
+    font-size: 40px;
+    margin: auto;
+    margin-top: 50px;
+    width: 80%;
+    height: 100px;
+    background-color: beige;
+    border: 1px solid rgb(233, 53, 53);
+
+}
+
+
+.answer{
+
+    text-align: right;
+    color: ;
+    padding-right: 10px;
+    font-size: 40px;
+    margin: auto;
+    margin-top: ;
+    width: 80%;
+    height: 50px;
+    background-color: beige;
+    border: 1px solid rgb(33, 19, 228);
+
+}
+
+.backspace{
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    color: green;
+    border: 1px solid rgb(240, 243, 240);
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+hr{
+    width: 80%;
+    
+}
+
+.numbers{
+    width: 80%;
+    height: 480px;
+   /* padding: 0px 10px 0px 40px; */
+    color: white;
+    /* margin-top: 30px; */
+    font-size: 70px;
+    margin: auto;
+    /* border: 1px solid green; */
+
+}
+
+.row {
+   margin: auto;
+   margin-top: 5px;
+   margin-left: 25px;
+   width: 95%;
+   height: 90px;
+
+    
+}
+
+.row div{
+    margin:auto ;
+    width: 20%;
+    text-align: center;
+    /* border: 1px  solid pink; */
+    display: inline-block;
+    /* padding: 12px 10px; */
+    border-radius: 50%;
+    background-color: rgb(70, 67, 67);
+
+}
+
+.operation{
+    color: green;
+}
+
+.clear{
+    color: red;
+}
+
+#equal{
+    background-color: green;
+}
+
+.hov:hover {
+    color:rgb(212, 55, 55) ;
+}
+
+.rev:hover{
+    color:rgb(13, 66, 241);
+}
+
+.row .operation{
+    font-size: ;
+}
